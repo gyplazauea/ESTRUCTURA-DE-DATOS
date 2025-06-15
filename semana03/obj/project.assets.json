@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Documents\\ESTRUCTURA DE DATOS\\semana02\\semana02.csproj",
-      "projectName": "semana02",
-      "projectPath": "C:\\Users\\DELL\\Documents\\ESTRUCTURA DE DATOS\\semana02\\semana02.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\ESTRUCTURA DE DATOS\\semana03\\semana03.csproj",
+      "projectName": "semana03",
+      "projectPath": "C:\\Users\\DELL\\Documents\\ESTRUCTURA DE DATOS\\semana03\\semana03.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Documents\\ESTRUCTURA DE DATOS\\semana02\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\ESTRUCTURA DE DATOS\\semana03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
